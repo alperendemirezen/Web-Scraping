@@ -2,11 +2,8 @@
 Creating a booking GUI by making web scraper.
 
 
-Sure, here is the corrected and formatted project description:
 
----
-
-**Project Description:**
+Project Description:
 
 Create a hotel listing program with a graphical user interface (GUI) using Python. The program will allow users to select a city from a drop-down list, enter check-in and check-out dates for 1 room for 2 adults (no child). Additionally, the program will include a button to toggle between Euro and TL units. The hotel data attributes/fields that you will scrape from Booking.com are:  
 
